@@ -1,0 +1,13 @@
+{
+  "name": "backlan",
+  "version": "1.0.0",
+  "main": "src/server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": ["LanHouse", "Desenvolvimento WEB", "NodeJS", "Express", "Dev BackEnd"],
+  "author": "Julio Carlos de Moraes Junior",
+  "license": "MIT",
+  "description": "Sistema de exemplo para curso de Técnico de Informatica do IFSP, aplicando API",
+  "type":"module"
+}
