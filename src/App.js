@@ -1,5 +1,6 @@
 import express from 'express'
 import dotenv from 'dotenv'
+import './database/ModelConnection.js'
 import homeRoutes from './routers/Home.Routes.js'
 import usuarioRoutes from './routers/Usuario.Routes.js'
 
